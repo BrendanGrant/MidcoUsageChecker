@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidcoUsageChecker", "MidcoUsageChecker\MidcoUsageChecker.csproj", "{93FEC3E9-4276-4438-912E-403C6FC24278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidcoUsageChecker.Example", "MidcoUsageChecker.Example\MidcoUsageChecker.Example.csproj", "{9E5ED9EF-4325-4BF3-8584-12D3A57F559E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93FEC3E9-4276-4438-912E-403C6FC24278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FEC3E9-4276-4438-912E-403C6FC24278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FEC3E9-4276-4438-912E-403C6FC24278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FEC3E9-4276-4438-912E-403C6FC24278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E5ED9EF-4325-4BF3-8584-12D3A57F559E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5ED9EF-4325-4BF3-8584-12D3A57F559E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5ED9EF-4325-4BF3-8584-12D3A57F559E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5ED9EF-4325-4BF3-8584-12D3A57F559E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95FBD6E6-3147-453C-B12F-012FD0396DAA}
+	EndGlobalSection
+EndGlobal
